@@ -5,12 +5,14 @@ This repository contains the legal documents for the HealthRecord mobile applica
 ## Documents Available
 
 ### 📋 Privacy Policy
-- **English**: [Privacy Policy](privacy-policy.md)
+- **English**: [Privacy Policy (HealthRecord)](privacy-policy-HealthRecord)
+- **中文**: [隐私政策 (HealthRecord)](privacy-policy-zh-HealthRecord)
 - Explains how we collect, use, and protect your personal information
 - Details our data handling practices and your rights
 
 ### 📄 Terms of Service
-- **English**: [Terms of Service](terms-of-service.md)
+- **English**: [Terms of Service (HealthRecord)](terms-of-service-HealthRecord)
+- **中文**: [服务条款 (HealthRecord)](terms-of-service-zh-HealthRecord)
 - Legal agreement governing the use of the HealthRecord application
 - Includes user responsibilities and disclaimers
 
@@ -18,6 +20,15 @@ This repository contains the legal documents for the HealthRecord mobile applica
 
 These documents are also available online via GitHub Pages:
 
+### English Versions (with HealthRecord suffix):
+- **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy-HealthRecord
+- **Terms of Service**: https://focusstar.github.io/WebPage/terms-of-service-HealthRecord
+
+### Chinese Versions (中文版本, with HealthRecord suffix):
+- **隐私政策**: https://focusstar.github.io/WebPage/privacy-policy-zh-HealthRecord
+- **服务条款**: https://focusstar.github.io/WebPage/terms-of-service-zh-HealthRecord
+
+### Legacy Links (without HealthRecord suffix):
 - **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy
 - **Terms of Service**: https://focusstar.github.io/WebPage/terms-of-service
 
