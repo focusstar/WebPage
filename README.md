@@ -18,7 +18,15 @@ This repository contains the legal documents for the HealthRecord mobile applica
 
 ## Accessing Documents Online
 
-These documents are also available online via GitHub Pages:
+These documents are available online via GitHub Pages. **Please ensure GitHub Pages is enabled in your repository settings!**
+
+### 🚨 IMPORTANT SETUP REQUIRED:
+1. Go to your GitHub repository: https://github.com/focusstar/WebPage
+2. Click **Settings** tab
+3. In the left sidebar, click **Pages**
+4. Under **Source**, select **Deploy from a branch**
+5. Select **main** branch and **/ (root)** folder
+6. Click **Save**
 
 ### English Versions (with HealthRecord suffix):
 - **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy-HealthRecord
@@ -28,13 +36,11 @@ These documents are also available online via GitHub Pages:
 - **隐私政策**: https://focusstar.github.io/WebPage/privacy-policy-zh-HealthRecord
 - **服务条款**: https://focusstar.github.io/WebPage/terms-of-service-zh-HealthRecord
 
-**Note**: If you encounter 404 errors, try the direct links to the original files:
-- **隐私政策 (原始文件)**: https://focusstar.github.io/WebPage/privacy-policy-zh
-- **服务条款 (原始文件)**: https://focusstar.github.io/WebPage/terms-of-service-zh
-
-### Legacy Links (without HealthRecord suffix):
-- **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy
-- **Terms of Service**: https://focusstar.github.io/WebPage/terms-of-service
+### Direct File Links (without HealthRecord suffix):
+- **Privacy Policy (English)**: https://focusstar.github.io/WebPage/privacy-policy
+- **Terms of Service (English)**: https://focusstar.github.io/WebPage/terms-of-service
+- **隐私政策 (中文)**: https://focusstar.github.io/WebPage/privacy-policy-zh
+- **服务条款 (中文)**: https://focusstar.github.io/WebPage/terms-of-service-zh
 
 ## About HealthRecord
 
