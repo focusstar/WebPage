@@ -28,6 +28,10 @@ These documents are also available online via GitHub Pages:
 - **隐私政策**: https://focusstar.github.io/WebPage/privacy-policy-zh-HealthRecord
 - **服务条款**: https://focusstar.github.io/WebPage/terms-of-service-zh-HealthRecord
 
+**Note**: If you encounter 404 errors, try the direct links to the original files:
+- **隐私政策 (原始文件)**: https://focusstar.github.io/WebPage/privacy-policy-zh
+- **服务条款 (原始文件)**: https://focusstar.github.io/WebPage/terms-of-service-zh
+
 ### Legacy Links (without HealthRecord suffix):
 - **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy
 - **Terms of Service**: https://focusstar.github.io/WebPage/terms-of-service
