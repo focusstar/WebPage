@@ -24,9 +24,9 @@ These documents are available online via GitHub Pages. **Please ensure GitHub Pa
 1. Go to your GitHub repository: https://github.com/focusstar/WebPage
 2. Click **Settings** tab
 3. In the left sidebar, click **Pages**
-4. Under **Source**, select **Deploy from a branch**
-5. Select **main** branch and **/ (root)** folder
-6. Click **Save**
+4. Under **Source**, select **GitHub Actions**
+5. Wait for the Actions workflow to complete (check the Actions tab)
+6. The site will be automatically deployed once the workflow succeeds
 
 ### English Versions (with HealthRecord suffix):
 - **Privacy Policy**: https://focusstar.github.io/WebPage/privacy-policy-HealthRecord
