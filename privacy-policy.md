@@ -19,6 +19,13 @@ With your explicit consent, our App may access and store:
 - Time stamps and notes associated with measurements
 - Target ranges and health goals
 
+### Payment and Subscription Information
+If you choose to subscribe to our premium services, we may collect:
+- Subscription status and expiration dates
+- Transaction history (processed securely through Apple App Store)
+- Payment method information (handled by Apple, not stored by us)
+- Subscription preferences and settings
+
 ## How We Use Your Information
 
 We use the collected information to:
@@ -26,6 +33,8 @@ We use the collected information to:
 - Display your health data in charts and analytics
 - Generate personalized health summaries
 - Send medication reminders (if enabled)
+- Process and manage subscription services
+- Provide customer support for subscription-related inquiries
 - Improve our services and user experience
 
 ## Data Storage and Security
@@ -35,6 +44,9 @@ All health data is stored locally on your device. We do not transmit your person
 
 ### Cloud Sync (Optional)
 If you enable cloud sync, your data will be encrypted and stored on secure servers. We use industry-standard encryption to protect your data during transmission and storage.
+
+### Payment Processing
+All payment transactions are processed securely through Apple App Store. We do not store or have access to your credit card information or other payment details. Payment information is handled exclusively by Apple in accordance with their privacy policy.
 
 ### Data Security Measures
 - All sensitive data is encrypted on your device
