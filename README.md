@@ -56,9 +56,7 @@ HealthRecord is a mobile application for tracking blood glucose levels and blood
 
 For questions about these legal documents or the HealthRecord application:
 
-- **Email**: support@healthrecord.app
-- **Privacy Inquiries**: privacy@healthrecord.app
-- **Legal Inquiries**: legal@healthrecord.app
+- **Email**: freeSunlight35@outlook.com
 
 ## License
 

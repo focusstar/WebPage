@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Effective Date: [Current Date]
+## Effective Date: January 1, 2026
 
 These Terms of Service ("Terms") govern your use of the HealthRecord mobile application (the "App") and related services. By downloading, installing, or using the App, you agree to be bound by these Terms.
 
@@ -108,16 +108,11 @@ Your privacy is important to us. Please review our Privacy Policy, which also go
 
 We reserve the right to modify these Terms at any time. We will notify users of material changes through the App or via email.
 
-## Governing Law
-
-These Terms shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to conflict of law principles.
-
 ## Contact Information
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** legal@healthrecord.app
-**Address:** [Your Company Address]
+**Email:** freeSunlight35@outlook.com
 
 ## Severability
 
@@ -125,6 +120,6 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ---
 
-*These terms of service were last updated on [Current Date]*
+*These terms of service were last updated on January 1, 2026*
 
 **By using HealthRecord, you acknowledge that you have read and understood these Terms of Service.**

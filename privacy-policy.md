@@ -1,6 +1,6 @@
 # Privacy Policy
 
-## Effective Date: [Current Date]
+## Effective Date: January 1, 2026
 
 This Privacy Policy describes how HealthRecord ("we", "us", or "our") collects, uses, and protects your information when you use our mobile application (the "App").
 
@@ -74,9 +74,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** support@healthrecord.app
-**Address:** [Your Company Address]
+**Email:** freeSunlight35@outlook.com
 
 ---
 
-*This privacy policy was last updated on [Current Date]*
+*This privacy policy was last updated on January 1, 2026*
